@@ -17,3 +17,4 @@ ms0:/PSP/GAME/
 ##License
 * *Code* : The MIT License (MIT). Copyright (c) 2008 Roland Y. See [LICENSE](license)
 * *Design* : Copyright (c) 2008 Darell94.
+* *Music* : Concentrate Copyright (c) Xzibit (Full Circle), Koch Records.
