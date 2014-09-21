@@ -72,6 +72,6 @@ function sweetintro()
 end
 
 while true do
-	screen:clear()
-	sweetintro()
+  screen:clear()
+  sweetintro()
 end
