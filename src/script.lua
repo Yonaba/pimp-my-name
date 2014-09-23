@@ -1,4 +1,3 @@
---logo
 BackGround_Cache = Image.load("boot/logo.png")
 fader = Image.createEmpty(480,272)
 alphaValue = 255
